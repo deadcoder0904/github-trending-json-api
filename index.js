@@ -1,9 +1,23 @@
 import Nightmare from 'nightmare'
 import jsonfile from 'jsonfile'
 import moment from 'moment'
+import path from 'path'
 
-const nightmare = Nightmare({ show: true })
-const file = '/media/deadcoder0904/DEAD/Coding/100dayz/github-trending-json-api/json/' + moment().format('D-MM-YY') + '.json' 
+const nightmare = Nightmare()
+const file = path.join(__dirname, '..','json/') + moment().format('D-MM-YY') + '.json' 
+
+const map_to_object = map => {
+  const out = Object.create(null)
+  map.forEach((value, key) => {
+    if (value instanceof Map) {
+      out[key] = map_to_object(value)
+    }
+    else {
+      out[key] = value
+    }
+  })
+  return out
+}
 
 nightmare
   .goto('https://google.com')
@@ -12,9 +26,9 @@ nightmare
   .wait('#ires')
   .click('html body#gsr.vasq.srp div#viewport.ctr-p div#main.content div#cnt div.mw div#rcnt div.col div#center_col div#res.med div#search div div#ires div#rso div.g div div.rc h3.r a')
   .evaluate(function () {
-		let repos = document.querySelector('ol.repo-list')
-		let links = []
-		let description = []
+		var repos = document.querySelector('ol.repo-list')
+		var links = []
+		var description = []
 
 		repos.querySelectorAll('li>div>h3>a')
 					.forEach(function(a) { 
@@ -28,20 +42,26 @@ nightmare
 										else description.push(a.childNodes[1].innerText)
 									})
 		
-		let details = []
-		for (let i = 0; i < links.length; i++)
-			details[links[i]] = description[i]
     return {
-    	links,
-    	description
+			links,
+			description
     }
   })
   .end()
   .then(function (result) {
-		jsonfile.writeFile(file, result, function (err) {
+		var details = []
+		var m = null
+		
+		for (var i = 0; i < result.links.length; i++) {
+			m = new Map() 
+			m.set(result.links[i],result.description[i]);
+			details.push(m)
+		}
+
+		jsonfile.writeFile(file, map_to_object(details), function (err) {
 		  console.error(err)
 		})
   })
   .catch(function (error) {
-    console.error('Search failed:', error);
-  });
+    console.error('Search failed:', error)
+  })
