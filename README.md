@@ -1,6 +1,6 @@
 # github-trending-json-api
 
-> 
+> :octocat: Get Github Trending Repos in JSON format
 
 ## License
 
