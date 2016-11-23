@@ -25,7 +25,7 @@ nightmare
 		repos.querySelectorAll('li>div.py-1')
 					.forEach(function(a) {
 										if(a.childNodes.length != 3)
-											description.push("")
+											description.push("Description Not Provided")
 										else description.push(a.childNodes[1].innerText)
 									})
 		
