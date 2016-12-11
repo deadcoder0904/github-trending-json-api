@@ -4,7 +4,7 @@ import moment from 'moment'
 import path from 'path'
 
 const nightmare = Nightmare()
-const file = path.join(__dirname, '..','json/') + moment().format('D-MM-YY') + '.json' 
+const file = path.join(__dirname, '..','json/') + moment().format('DD-MM-YY') + '.json'
 
 nightmare
   .goto('https://google.com')
@@ -18,8 +18,8 @@ nightmare
 		var description = []
 
 		repos.querySelectorAll('li>div>h3>a')
-					.forEach(function(a) { 
-										url.push(a.href) 
+					.forEach(function(a) {
+										url.push(a.href)
 									})
 
 		repos.querySelectorAll('li>div.py-1')
@@ -28,7 +28,7 @@ nightmare
 											description.push("Description Not Provided")
 										else description.push(a.childNodes[1].innerText)
 									})
-		
+
     return {
 			url,
 			description
