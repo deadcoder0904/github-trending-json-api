@@ -5,7 +5,7 @@ import path from 'path'
 
 const nightmare = Nightmare()
 const file = path.join(__dirname, '..','json/') + moment().format('DD-MM-YY') + '.json'
-
+console.log(file)
 nightmare
   .goto('https://google.com')
   .type('form[action*="/search"] [name=q]', 'github trending')
