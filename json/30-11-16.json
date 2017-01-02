@@ -1,1 +1,127 @@
-[{"name":"cyclotron","url":"https://github.com/ExpediaInceCommercePlatform/cyclotron","description":"A web platform for constructing dashboards."},{"name":"svelte","url":"https://github.com/sveltejs/svelte","description":"The magical disappearing UI framework"},{"name":"CyberChef","url":"https://github.com/gchq/CyberChef","description":"The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis"},{"name":"FreeCodeCamp","url":"https://github.com/FreeCodeCamp/FreeCodeCamp","description":"The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."},{"name":"ps","url":"https://github.com/sangupta/ps","description":"Problem Solving"},{"name":"conversational-form","url":"https://github.com/space10-community/conversational-form","description":"Turning web forms into conversations"},{"name":"css-reference","url":"https://github.com/jgthms/css-reference","description":"CSS Reference: a free visual guide to the most popular CSS properties"},{"name":"AndroidUtilCode","url":"https://github.com/Blankj/AndroidUtilCode","description":"Android developers should collect the following utils(updating)"},{"name":"ant-design","url":"https://github.com/ant-design/ant-design","description":" One design language"},{"name":"ScrollablePanel","url":"https://github.com/Kelin-Hong/ScrollablePanel","description":"A flexible view for providing a limited rect window into a large data set,just like a two-dimensional RecyclerView. It different from RecyclerView is that it's two-dimensional(just like a Panel) and it pin the itemView of first row and first column in their original location."},{"name":"RegexHub","url":"https://github.com/lukehaas/RegexHub","description":"A collection of useful regex patterns"},{"name":"tiny-dnn","url":"https://github.com/tiny-dnn/tiny-dnn","description":"header only, dependency-free deep learning framework in C++11"},{"name":"grafana","url":"https://github.com/grafana/grafana","description":"Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & Prometheus"},{"name":"blurkit-android","url":"https://github.com/wonderkiln/blurkit-android","description":"The missing Android blurring library. Fast blur-behind layout that parallels iOS."},{"name":"react-native-express","url":"https://github.com/dabbott/react-native-express","description":"Learn React Native through interactive examples"},{"name":"AnyBar","url":"https://github.com/tonsky/AnyBar","description":"OS X menubar status indicator"},{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","description":"Computation using data flow graphs for scalable machine learning"},{"name":"inferno","url":"https://github.com/trueadm/inferno","description":"An extremely fast, React-like JavaScript library for building modern user interfaces"},{"name":"macOS-Security-and-Privacy-Guide","url":"https://github.com/drduh/macOS-Security-and-Privacy-Guide","description":"A practical guide to securing macOS."},{"name":"cs-video-courses","url":"https://github.com/Developer-Y/cs-video-courses","description":"List of Computer Science courses with video lectures."},{"name":"CreditCardForm-iOS","url":"https://github.com/orazz/CreditCardForm-iOS","description":"CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card."},{"name":"superset","url":"https://github.com/airbnb/superset","description":"Superset is a data exploration platform designed to be visual, intuitive, and interactive"},{"name":"vue","url":"https://github.com/vuejs/vue","description":"Simple yet powerful library for building modern web interfaces."},{"name":"vuelidate","url":"https://github.com/monterail/vuelidate","description":"Simple, lightweight model-based validation for Vue.js"},{"name":"CaptchaImageView","url":"https://github.com/jineshfrancs/CaptchaImageView","description":"Custom ImageView to generate captcha image."}]
+[
+  {
+    "name": "cyclotron",
+    "url": "https://github.com/ExpediaInceCommercePlatform/cyclotron",
+    "description": "A web platform for constructing dashboards."
+  },
+  {
+    "name": "svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "description": "The magical disappearing UI framework"
+  },
+  {
+    "name": "CyberChef",
+    "url": "https://github.com/gchq/CyberChef",
+    "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis"
+  },
+  {
+    "name": "FreeCodeCamp",
+    "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+    "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."
+  },
+  {
+    "name": "ps",
+    "url": "https://github.com/sangupta/ps",
+    "description": "Problem Solving"
+  },
+  {
+    "name": "conversational-form",
+    "url": "https://github.com/space10-community/conversational-form",
+    "description": "Turning web forms into conversations"
+  },
+  {
+    "name": "css-reference",
+    "url": "https://github.com/jgthms/css-reference",
+    "description": "CSS Reference: a free visual guide to the most popular CSS properties"
+  },
+  {
+    "name": "AndroidUtilCode",
+    "url": "https://github.com/Blankj/AndroidUtilCode",
+    "description": "Android developers should collect the following utils(updating)"
+  },
+  {
+    "name": "ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "description": " One design language"
+  },
+  {
+    "name": "ScrollablePanel",
+    "url": "https://github.com/Kelin-Hong/ScrollablePanel",
+    "description": "A flexible view for providing a limited rect window into a large data set,just like a two-dimensional RecyclerView. It different from RecyclerView is that it's two-dimensional(just like a Panel) and it pin the itemView of first row and first column in their original location."
+  },
+  {
+    "name": "RegexHub",
+    "url": "https://github.com/lukehaas/RegexHub",
+    "description": "A collection of useful regex patterns"
+  },
+  {
+    "name": "tiny-dnn",
+    "url": "https://github.com/tiny-dnn/tiny-dnn",
+    "description": "header only, dependency-free deep learning framework in C++11"
+  },
+  {
+    "name": "grafana",
+    "url": "https://github.com/grafana/grafana",
+    "description": "Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & Prometheus"
+  },
+  {
+    "name": "blurkit-android",
+    "url": "https://github.com/wonderkiln/blurkit-android",
+    "description": "The missing Android blurring library. Fast blur-behind layout that parallels iOS."
+  },
+  {
+    "name": "react-native-express",
+    "url": "https://github.com/dabbott/react-native-express",
+    "description": "Learn React Native through interactive examples"
+  },
+  {
+    "name": "AnyBar",
+    "url": "https://github.com/tonsky/AnyBar",
+    "description": "OS X menubar status indicator"
+  },
+  {
+    "name": "tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "Computation using data flow graphs for scalable machine learning"
+  },
+  {
+    "name": "inferno",
+    "url": "https://github.com/trueadm/inferno",
+    "description": "An extremely fast, React-like JavaScript library for building modern user interfaces"
+  },
+  {
+    "name": "macOS-Security-and-Privacy-Guide",
+    "url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
+    "description": "A practical guide to securing macOS."
+  },
+  {
+    "name": "cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures."
+  },
+  {
+    "name": "CreditCardForm-iOS",
+    "url": "https://github.com/orazz/CreditCardForm-iOS",
+    "description": "CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card."
+  },
+  {
+    "name": "superset",
+    "url": "https://github.com/airbnb/superset",
+    "description": "Superset is a data exploration platform designed to be visual, intuitive, and interactive"
+  },
+  {
+    "name": "vue",
+    "url": "https://github.com/vuejs/vue",
+    "description": "Simple yet powerful library for building modern web interfaces."
+  },
+  {
+    "name": "vuelidate",
+    "url": "https://github.com/monterail/vuelidate",
+    "description": "Simple, lightweight model-based validation for Vue.js"
+  },
+  {
+    "name": "CaptchaImageView",
+    "url": "https://github.com/jineshfrancs/CaptchaImageView",
+    "description": "Custom ImageView to generate captcha image."
+  }
+]

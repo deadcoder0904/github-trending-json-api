@@ -1,1 +1,127 @@
-[{"name":"google-interview-university","url":"https://github.com/jwasham/google-interview-university","description":"A complete daily plan for studying to become a Google software engineer."},{"name":"stack-on-a-budget","url":"https://github.com/255kb/stack-on-a-budget","description":"A collection of services with great free tiers for developers on a budget"},{"name":"TextLayoutBuilder","url":"https://github.com/facebookincubator/TextLayoutBuilder","description":"An Android library that allows you to build text layouts more easily."},{"name":"FreeCodeCamp","url":"https://github.com/FreeCodeCamp/FreeCodeCamp","description":"The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."},{"name":"single_file_libs","url":"https://github.com/nothings/single_file_libs","description":"List of single-file C/C++ libraries."},{"name":"maya","url":"https://github.com/kennethreitz/maya","description":"Datetimes for Humans™"},{"name":"flv.js","url":"https://github.com/Bilibili/flv.js","description":"HTML5 FLV Player"},{"name":"longflow-manifesto","url":"https://github.com/Nax/longflow-manifesto","description":" The longflow manifesto"},{"name":"octobox","url":"https://github.com/andrew/octobox","description":" Take back control of your GitHub Notifications"},{"name":"android-oss","url":"https://github.com/kickstarter/android-oss","description":"Kickstarter for Android. Bring new ideas to life, anywhere."},{"name":"crystal","url":"https://github.com/crystal-lang/crystal","description":"The Crystal Programming Language"},{"name":"ios-oss","url":"https://github.com/kickstarter/ios-oss","description":"Kickstarter for iOS. Bring new ideas to life, anywhere."},{"name":"react-fix-it","url":"https://github.com/MicheleBertoli/react-fix-it","description":"Automagically generate tests from errors"},{"name":"rasa_nlu","url":"https://github.com/golastmile/rasa_nlu","description":"Description Not Provided"},{"name":"material-components-android","url":"https://github.com/material-components/material-components-android","description":"Modular and customizable Material Design UI components for Android"},{"name":"TensorFlow-Book","url":"https://github.com/BinRoot/TensorFlow-Book","description":"Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations."},{"name":"ZLayoutManager","url":"https://github.com/mcxtzhang/ZLayoutManager","description":"Some custom LayoutManager .Such as SwipeCard、FLowLayout。一些自定义的LayoutManager，仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等。"},{"name":"WowSplash","url":"https://github.com/githubwing/WowSplash","description":"A Woooow Splash.. 铁塔融云！一个让你的哇哇哇哇闪屏页。"},{"name":"RxWindowIfChanged","url":"https://github.com/JakeWharton/RxWindowIfChanged","description":"An RxJava 2 operator which splits an observable into windows using a key selector."},{"name":"vuetify","url":"https://github.com/vuetifyjs/vuetify","description":"Material Component Framework for Vue JS 2.0"},{"name":"ofelia","url":"https://github.com/mcuadros/ofelia","description":"A docker job scheduler (aka. crontab for docker)"},{"name":"gitql","url":"https://github.com/cloudson/gitql","description":"A git query language"},{"name":"material-components-web","url":"https://github.com/material-components/material-components-web","description":"Modular and customizable Material Design UI components for the web"},{"name":"voca","url":"https://github.com/panzerdp/voca","description":"The ultimate JavaScript string library"},{"name":"vue","url":"https://github.com/vuejs/vue","description":"Simple yet powerful library for building modern web interfaces."}]
+[
+  {
+    "name": "google-interview-university",
+    "url": "https://github.com/jwasham/google-interview-university",
+    "description": "A complete daily plan for studying to become a Google software engineer."
+  },
+  {
+    "name": "stack-on-a-budget",
+    "url": "https://github.com/255kb/stack-on-a-budget",
+    "description": "A collection of services with great free tiers for developers on a budget"
+  },
+  {
+    "name": "TextLayoutBuilder",
+    "url": "https://github.com/facebookincubator/TextLayoutBuilder",
+    "description": "An Android library that allows you to build text layouts more easily."
+  },
+  {
+    "name": "FreeCodeCamp",
+    "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+    "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."
+  },
+  {
+    "name": "single_file_libs",
+    "url": "https://github.com/nothings/single_file_libs",
+    "description": "List of single-file C/C++ libraries."
+  },
+  {
+    "name": "maya",
+    "url": "https://github.com/kennethreitz/maya",
+    "description": "Datetimes for Humans™"
+  },
+  {
+    "name": "flv.js",
+    "url": "https://github.com/Bilibili/flv.js",
+    "description": "HTML5 FLV Player"
+  },
+  {
+    "name": "longflow-manifesto",
+    "url": "https://github.com/Nax/longflow-manifesto",
+    "description": " The longflow manifesto"
+  },
+  {
+    "name": "octobox",
+    "url": "https://github.com/andrew/octobox",
+    "description": " Take back control of your GitHub Notifications"
+  },
+  {
+    "name": "android-oss",
+    "url": "https://github.com/kickstarter/android-oss",
+    "description": "Kickstarter for Android. Bring new ideas to life, anywhere."
+  },
+  {
+    "name": "crystal",
+    "url": "https://github.com/crystal-lang/crystal",
+    "description": "The Crystal Programming Language"
+  },
+  {
+    "name": "ios-oss",
+    "url": "https://github.com/kickstarter/ios-oss",
+    "description": "Kickstarter for iOS. Bring new ideas to life, anywhere."
+  },
+  {
+    "name": "react-fix-it",
+    "url": "https://github.com/MicheleBertoli/react-fix-it",
+    "description": "Automagically generate tests from errors"
+  },
+  {
+    "name": "rasa_nlu",
+    "url": "https://github.com/golastmile/rasa_nlu",
+    "description": "Description Not Provided"
+  },
+  {
+    "name": "material-components-android",
+    "url": "https://github.com/material-components/material-components-android",
+    "description": "Modular and customizable Material Design UI components for Android"
+  },
+  {
+    "name": "TensorFlow-Book",
+    "url": "https://github.com/BinRoot/TensorFlow-Book",
+    "description": "Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations."
+  },
+  {
+    "name": "ZLayoutManager",
+    "url": "https://github.com/mcxtzhang/ZLayoutManager",
+    "description": "Some custom LayoutManager .Such as SwipeCard、FLowLayout。一些自定义的LayoutManager，仿探探、人人影视 炫动滑动 卡片层叠 和流式布局等。"
+  },
+  {
+    "name": "WowSplash",
+    "url": "https://github.com/githubwing/WowSplash",
+    "description": "A Woooow Splash.. 铁塔融云！一个让你的哇哇哇哇闪屏页。"
+  },
+  {
+    "name": "RxWindowIfChanged",
+    "url": "https://github.com/JakeWharton/RxWindowIfChanged",
+    "description": "An RxJava 2 operator which splits an observable into windows using a key selector."
+  },
+  {
+    "name": "vuetify",
+    "url": "https://github.com/vuetifyjs/vuetify",
+    "description": "Material Component Framework for Vue JS 2.0"
+  },
+  {
+    "name": "ofelia",
+    "url": "https://github.com/mcuadros/ofelia",
+    "description": "A docker job scheduler (aka. crontab for docker)"
+  },
+  {
+    "name": "gitql",
+    "url": "https://github.com/cloudson/gitql",
+    "description": "A git query language"
+  },
+  {
+    "name": "material-components-web",
+    "url": "https://github.com/material-components/material-components-web",
+    "description": "Modular and customizable Material Design UI components for the web"
+  },
+  {
+    "name": "voca",
+    "url": "https://github.com/panzerdp/voca",
+    "description": "The ultimate JavaScript string library"
+  },
+  {
+    "name": "vue",
+    "url": "https://github.com/vuejs/vue",
+    "description": "Simple yet powerful library for building modern web interfaces."
+  }
+]

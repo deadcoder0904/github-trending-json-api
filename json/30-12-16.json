@@ -1,1 +1,127 @@
-[{"name":"mars","url":"https://github.com/Tencent/mars","description":"Mars is a cross-platform network component developed by WeChat."},{"name":"machine-learning-for-software-engineers","url":"https://github.com/ZuzooVn/machine-learning-for-software-engineers","description":"A complete daily plan for studying to become a machine learning engineer."},{"name":"FreeCodeCamp","url":"https://github.com/FreeCodeCamp/FreeCodeCamp","description":"The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."},{"name":"google-interview-university","url":"https://github.com/jwasham/google-interview-university","description":"A complete daily plan for studying to become a Google software engineer."},{"name":"awesomo","url":"https://github.com/lk-geimfari/awesomo","description":"The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc."},{"name":"leakage","url":"https://github.com/andywer/leakage","description":" Memory leak testing for node."},{"name":"webvr-experiments","url":"https://github.com/nikgraf/webvr-experiments","description":"A collection of ReactVR experiments (potentially also A-Frame and WebVR expriments using ReasonML & Elm)"},{"name":"Android-ExpandIcon","url":"https://github.com/zagum/Android-ExpandIcon","description":"Nice and simple customizable implementation of Google style up/down expand arrow."},{"name":"mdui","url":"https://github.com/zdhxiong/mdui","description":"MDUI 是一个基于 Material Design 的前端框架。"},{"name":"vue","url":"https://github.com/vuejs/vue","description":"Simple yet powerful library for building modern web interfaces."},{"name":"laravel","url":"https://github.com/laravel/laravel","description":"A PHP Framework For Web Artisans"},{"name":"PanoramaImageView","url":"https://github.com/gjiazhe/PanoramaImageView","description":"An imageView can auto scroll with device rotating."},{"name":"You-Dont-Know-JS","url":"https://github.com/getify/You-Dont-Know-JS","description":"A book series on JavaScript. @YDKJS on twitter."},{"name":"awesome-falsehood","url":"https://github.com/kdeldycke/awesome-falsehood","description":" Curated list of falsehoods programmers believe in."},{"name":"free-programming-books","url":"https://github.com/vhf/free-programming-books","description":" Freely available programming books"},{"name":"article","url":"https://github.com/WeMobileDev/article","description":"articles by WeChat Mobile Development Team"},{"name":"lighthouse","url":"https://github.com/GoogleChrome/lighthouse","description":"Auditing, performance metrics, and best practices for Progressive Web Apps"},{"name":"Squint","url":"https://github.com/IntruderShanky/Squint","description":"Provide Diagonal cut on view with awesome customization #DiagonalView"},{"name":"regexgen","url":"https://github.com/devongovett/regexgen","description":"Generate regular expressions that match a set of strings"},{"name":"frontend-interview","url":"https://github.com/jirengu/frontend-interview","description":"前端笔试面试题题库"},{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","description":"Computation using data flow graphs for scalable machine learning"},{"name":"BGASwipeBackLayout-Android","url":"https://github.com/bingoogolapple/BGASwipeBackLayout-Android","description":"通过修改 support-v4 包中 SlidingPaneLayout 的源码来实现滑动返回布局"},{"name":"stack-on-a-budget","url":"https://github.com/255kb/stack-on-a-budget","description":"A collection of services with great free tiers for developers on a budget"},{"name":"soundhax","url":"https://github.com/nedwill/soundhax","description":"Free 3DS Primary Entrypoint <=11.2"},{"name":"angular2-hn","url":"https://github.com/hdjirdeh/angular2-hn","description":" Progressive Hacker News client built with Angular"}]
+[
+  {
+    "name": "mars",
+    "url": "https://github.com/Tencent/mars",
+    "description": "Mars is a cross-platform network component developed by WeChat."
+  },
+  {
+    "name": "machine-learning-for-software-engineers",
+    "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+    "description": "A complete daily plan for studying to become a machine learning engineer."
+  },
+  {
+    "name": "FreeCodeCamp",
+    "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+    "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."
+  },
+  {
+    "name": "google-interview-university",
+    "url": "https://github.com/jwasham/google-interview-university",
+    "description": "A complete daily plan for studying to become a Google software engineer."
+  },
+  {
+    "name": "awesomo",
+    "url": "https://github.com/lk-geimfari/awesomo",
+    "description": "The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc."
+  },
+  {
+    "name": "leakage",
+    "url": "https://github.com/andywer/leakage",
+    "description": " Memory leak testing for node."
+  },
+  {
+    "name": "webvr-experiments",
+    "url": "https://github.com/nikgraf/webvr-experiments",
+    "description": "A collection of ReactVR experiments (potentially also A-Frame and WebVR expriments using ReasonML & Elm)"
+  },
+  {
+    "name": "Android-ExpandIcon",
+    "url": "https://github.com/zagum/Android-ExpandIcon",
+    "description": "Nice and simple customizable implementation of Google style up/down expand arrow."
+  },
+  {
+    "name": "mdui",
+    "url": "https://github.com/zdhxiong/mdui",
+    "description": "MDUI 是一个基于 Material Design 的前端框架。"
+  },
+  {
+    "name": "vue",
+    "url": "https://github.com/vuejs/vue",
+    "description": "Simple yet powerful library for building modern web interfaces."
+  },
+  {
+    "name": "laravel",
+    "url": "https://github.com/laravel/laravel",
+    "description": "A PHP Framework For Web Artisans"
+  },
+  {
+    "name": "PanoramaImageView",
+    "url": "https://github.com/gjiazhe/PanoramaImageView",
+    "description": "An imageView can auto scroll with device rotating."
+  },
+  {
+    "name": "You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "name": "awesome-falsehood",
+    "url": "https://github.com/kdeldycke/awesome-falsehood",
+    "description": " Curated list of falsehoods programmers believe in."
+  },
+  {
+    "name": "free-programming-books",
+    "url": "https://github.com/vhf/free-programming-books",
+    "description": " Freely available programming books"
+  },
+  {
+    "name": "article",
+    "url": "https://github.com/WeMobileDev/article",
+    "description": "articles by WeChat Mobile Development Team"
+  },
+  {
+    "name": "lighthouse",
+    "url": "https://github.com/GoogleChrome/lighthouse",
+    "description": "Auditing, performance metrics, and best practices for Progressive Web Apps"
+  },
+  {
+    "name": "Squint",
+    "url": "https://github.com/IntruderShanky/Squint",
+    "description": "Provide Diagonal cut on view with awesome customization #DiagonalView"
+  },
+  {
+    "name": "regexgen",
+    "url": "https://github.com/devongovett/regexgen",
+    "description": "Generate regular expressions that match a set of strings"
+  },
+  {
+    "name": "frontend-interview",
+    "url": "https://github.com/jirengu/frontend-interview",
+    "description": "前端笔试面试题题库"
+  },
+  {
+    "name": "tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "Computation using data flow graphs for scalable machine learning"
+  },
+  {
+    "name": "BGASwipeBackLayout-Android",
+    "url": "https://github.com/bingoogolapple/BGASwipeBackLayout-Android",
+    "description": "通过修改 support-v4 包中 SlidingPaneLayout 的源码来实现滑动返回布局"
+  },
+  {
+    "name": "stack-on-a-budget",
+    "url": "https://github.com/255kb/stack-on-a-budget",
+    "description": "A collection of services with great free tiers for developers on a budget"
+  },
+  {
+    "name": "soundhax",
+    "url": "https://github.com/nedwill/soundhax",
+    "description": "Free 3DS Primary Entrypoint <=11.2"
+  },
+  {
+    "name": "angular2-hn",
+    "url": "https://github.com/hdjirdeh/angular2-hn",
+    "description": " Progressive Hacker News client built with Angular"
+  }
+]

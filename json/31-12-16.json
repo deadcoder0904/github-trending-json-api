@@ -1,1 +1,127 @@
-[{"name":"free-programming-books","url":"https://github.com/vhf/free-programming-books","description":" Freely available programming books"},{"name":"mars","url":"https://github.com/Tencent/mars","description":"Mars is a cross-platform network component developed by WeChat."},{"name":"FreeCodeCamp","url":"https://github.com/FreeCodeCamp/FreeCodeCamp","description":"The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."},{"name":"atom-in-orbit","url":"https://github.com/facebooknuclide/atom-in-orbit","description":"Putting Atom in the browser"},{"name":"dragula","url":"https://github.com/bevacqua/dragula","description":" Drag and drop so simple it hurts"},{"name":"mdui","url":"https://github.com/zdhxiong/mdui","description":"MDUI 是一个基于 Material Design 的前端框架。"},{"name":"awesome","url":"https://github.com/sindresorhus/awesome","description":" Curated list of awesome lists"},{"name":"You-Dont-Know-JS","url":"https://github.com/getify/You-Dont-Know-JS","description":"A book series on JavaScript. @YDKJS on twitter."},{"name":"machine-learning-for-software-engineers","url":"https://github.com/ZuzooVn/machine-learning-for-software-engineers","description":"A complete daily plan for studying to become a machine learning engineer."},{"name":"100-days-of-code","url":"https://github.com/Kallaway/100-days-of-code","description":"Fork this template for the 100 days journal - to keep yourself accountable"},{"name":"google-interview-university","url":"https://github.com/jwasham/google-interview-university","description":"A complete daily plan for studying to become a Google software engineer."},{"name":"awesomo","url":"https://github.com/lk-geimfari/awesomo","description":"The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc."},{"name":"d3","url":"https://github.com/d3/d3","description":"Bring data to life with SVG, Canvas and HTML. "},{"name":"bttn.css","url":"https://github.com/ganapativs/bttn.css","description":"Awesome buttons for awesome projects!"},{"name":"stack-on-a-budget","url":"https://github.com/255kb/stack-on-a-budget","description":"A collection of services with great free tiers for developers on a budget"},{"name":"react","url":"https://github.com/facebook/react","description":"A declarative, efficient, and flexible JavaScript library for building user interfaces."},{"name":"vue","url":"https://github.com/vuejs/vue","description":"A progressive, incrementally-adoptable JavaScript framework for building UI on the web."},{"name":"leakage","url":"https://github.com/andywer/leakage","description":" Memory leak testing for node."},{"name":"webvr-experiments","url":"https://github.com/nikgraf/webvr-experiments","description":"A collection of ReactVR experiments (potentially also A-Frame and WebVR expriments using ReasonML & Elm)"},{"name":"Android-ExpandIcon","url":"https://github.com/zagum/Android-ExpandIcon","description":"Nice and simple customizable implementation of Google style up/down expand arrow."},{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","description":"Computation using data flow graphs for scalable machine learning"},{"name":"tabbie","url":"https://github.com/hharnisc/tabbie","description":"The missing tab manager for Chrome"},{"name":"Mars","url":"https://github.com/AlloyTeam/Mars","description":"腾讯移动Web前端知识库"},{"name":"bootstrap","url":"https://github.com/twbs/bootstrap","description":"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."},{"name":"react-boilerplate-clone","url":"https://github.com/ipselon/react-boilerplate-clone","description":"A React Boilerplate Project Clone integrated with Structor (former React UI Builder)."}]
+[
+  {
+    "name": "free-programming-books",
+    "url": "https://github.com/vhf/free-programming-books",
+    "description": " Freely available programming books"
+  },
+  {
+    "name": "mars",
+    "url": "https://github.com/Tencent/mars",
+    "description": "Mars is a cross-platform network component developed by WeChat."
+  },
+  {
+    "name": "FreeCodeCamp",
+    "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+    "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."
+  },
+  {
+    "name": "atom-in-orbit",
+    "url": "https://github.com/facebooknuclide/atom-in-orbit",
+    "description": "Putting Atom in the browser"
+  },
+  {
+    "name": "dragula",
+    "url": "https://github.com/bevacqua/dragula",
+    "description": " Drag and drop so simple it hurts"
+  },
+  {
+    "name": "mdui",
+    "url": "https://github.com/zdhxiong/mdui",
+    "description": "MDUI 是一个基于 Material Design 的前端框架。"
+  },
+  {
+    "name": "awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": " Curated list of awesome lists"
+  },
+  {
+    "name": "You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "name": "machine-learning-for-software-engineers",
+    "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+    "description": "A complete daily plan for studying to become a machine learning engineer."
+  },
+  {
+    "name": "100-days-of-code",
+    "url": "https://github.com/Kallaway/100-days-of-code",
+    "description": "Fork this template for the 100 days journal - to keep yourself accountable"
+  },
+  {
+    "name": "google-interview-university",
+    "url": "https://github.com/jwasham/google-interview-university",
+    "description": "A complete daily plan for studying to become a Google software engineer."
+  },
+  {
+    "name": "awesomo",
+    "url": "https://github.com/lk-geimfari/awesomo",
+    "description": "The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc."
+  },
+  {
+    "name": "d3",
+    "url": "https://github.com/d3/d3",
+    "description": "Bring data to life with SVG, Canvas and HTML. "
+  },
+  {
+    "name": "bttn.css",
+    "url": "https://github.com/ganapativs/bttn.css",
+    "description": "Awesome buttons for awesome projects!"
+  },
+  {
+    "name": "stack-on-a-budget",
+    "url": "https://github.com/255kb/stack-on-a-budget",
+    "description": "A collection of services with great free tiers for developers on a budget"
+  },
+  {
+    "name": "react",
+    "url": "https://github.com/facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+  },
+  {
+    "name": "vue",
+    "url": "https://github.com/vuejs/vue",
+    "description": "A progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+  },
+  {
+    "name": "leakage",
+    "url": "https://github.com/andywer/leakage",
+    "description": " Memory leak testing for node."
+  },
+  {
+    "name": "webvr-experiments",
+    "url": "https://github.com/nikgraf/webvr-experiments",
+    "description": "A collection of ReactVR experiments (potentially also A-Frame and WebVR expriments using ReasonML & Elm)"
+  },
+  {
+    "name": "Android-ExpandIcon",
+    "url": "https://github.com/zagum/Android-ExpandIcon",
+    "description": "Nice and simple customizable implementation of Google style up/down expand arrow."
+  },
+  {
+    "name": "tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "Computation using data flow graphs for scalable machine learning"
+  },
+  {
+    "name": "tabbie",
+    "url": "https://github.com/hharnisc/tabbie",
+    "description": "The missing tab manager for Chrome"
+  },
+  {
+    "name": "Mars",
+    "url": "https://github.com/AlloyTeam/Mars",
+    "description": "腾讯移动Web前端知识库"
+  },
+  {
+    "name": "bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+  },
+  {
+    "name": "react-boilerplate-clone",
+    "url": "https://github.com/ipselon/react-boilerplate-clone",
+    "description": "A React Boilerplate Project Clone integrated with Structor (former React UI Builder)."
+  }
+]

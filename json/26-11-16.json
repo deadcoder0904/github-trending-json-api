@@ -1,1 +1,127 @@
-[{"name":"macOS-Security-and-Privacy-Guide","url":"https://github.com/drduh/macOS-Security-and-Privacy-Guide","description":"A practical guide to securing macOS."},{"name":"FreeCodeCamp","url":"https://github.com/FreeCodeCamp/FreeCodeCamp","description":"The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."},{"name":"cs-video-courses","url":"https://github.com/Developer-Y/cs-video-courses","description":"List of Computer Science courses with video lectures."},{"name":"restc","url":"https://github.com/ElemeFE/restc","description":"A server-side middleware to visualize REST requests."},{"name":"ToDoList","url":"https://github.com/Yalantis/ToDoList","description":"Micro-Transitions for Smooth Android To-Do List Animations"},{"name":"single_file_libs","url":"https://github.com/nothings/single_file_libs","description":"List of single-file C/C++ libraries."},{"name":"css-reference","url":"https://github.com/jgthms/css-reference","description":"CSS Reference: a free visual guide to the most popular CSS properties"},{"name":"N-blog","url":"https://github.com/nswbmw/N-blog","description":"一起学 Node.js"},{"name":"Keyframes","url":"https://github.com/facebookincubator/Keyframes","description":"A library for converting Adobe AE shape based animations to a data format and play it back on Android and iOS devices."},{"name":"nuxt.js","url":"https://github.com/nuxt/nuxt.js","description":"A minimalistic framework for server-rendered Vue.js applications (inspired by Next.js)"},{"name":"IPProxys","url":"https://github.com/qiyeboy/IPProxys","description":"IPProxys代理池项目，提供代理ip"},{"name":"speech-to-text-wavenet","url":"https://github.com/buriburisuri/speech-to-text-wavenet","description":"Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition using DeepMind's WaveNet and tensorflow"},{"name":"intercooler-js","url":"https://github.com/LeadDyno/intercooler-js","description":"Making AJAX as easy as anchor tags"},{"name":"matrixmultiplication.xyz","url":"https://github.com/staltz/matrixmultiplication.xyz","description":"Description Not Provided"},{"name":"quorum","url":"https://github.com/jpmorganchase/quorum","description":"A permissioned implementation of Ethereum supporting data privacy"},{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","description":"Computation using data flow graphs for scalable machine learning"},{"name":"vue","url":"https://github.com/vuejs/vue","description":"Simple yet powerful library for building modern web interfaces."},{"name":"gcn","url":"https://github.com/tkipf/gcn","description":"Implementation of Graph Convolutional Networks in TensorFlow"},{"name":"ToastBar","url":"https://github.com/SwiftyWang/ToastBar","description":"Description Not Provided"},{"name":"jstraining","url":"https://github.com/ruanyf/jstraining","description":"全栈工程师培训材料"},{"name":"superset","url":"https://github.com/airbnb/superset","description":"Superset is a data exploration platform designed to be visual, intuitive, and interactive"},{"name":"ExpandableTextView","url":"https://github.com/Chen-Sir/ExpandableTextView","description":"Android TextView that can expand and collapse."},{"name":"TinderStack","url":"https://github.com/lawloretienne/TinderStack","description":"A stack of cards similar to Tinder"},{"name":"mxnet","url":"https://github.com/dmlc/mxnet","description":"Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"},{"name":"easy-application","url":"https://github.com/j-delaney/easy-application","description":"351 software engineering companies that are easy to apply to"}]
+[
+  {
+    "name": "macOS-Security-and-Privacy-Guide",
+    "url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
+    "description": "A practical guide to securing macOS."
+  },
+  {
+    "name": "FreeCodeCamp",
+    "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+    "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."
+  },
+  {
+    "name": "cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures."
+  },
+  {
+    "name": "restc",
+    "url": "https://github.com/ElemeFE/restc",
+    "description": "A server-side middleware to visualize REST requests."
+  },
+  {
+    "name": "ToDoList",
+    "url": "https://github.com/Yalantis/ToDoList",
+    "description": "Micro-Transitions for Smooth Android To-Do List Animations"
+  },
+  {
+    "name": "single_file_libs",
+    "url": "https://github.com/nothings/single_file_libs",
+    "description": "List of single-file C/C++ libraries."
+  },
+  {
+    "name": "css-reference",
+    "url": "https://github.com/jgthms/css-reference",
+    "description": "CSS Reference: a free visual guide to the most popular CSS properties"
+  },
+  {
+    "name": "N-blog",
+    "url": "https://github.com/nswbmw/N-blog",
+    "description": "一起学 Node.js"
+  },
+  {
+    "name": "Keyframes",
+    "url": "https://github.com/facebookincubator/Keyframes",
+    "description": "A library for converting Adobe AE shape based animations to a data format and play it back on Android and iOS devices."
+  },
+  {
+    "name": "nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "description": "A minimalistic framework for server-rendered Vue.js applications (inspired by Next.js)"
+  },
+  {
+    "name": "IPProxys",
+    "url": "https://github.com/qiyeboy/IPProxys",
+    "description": "IPProxys代理池项目，提供代理ip"
+  },
+  {
+    "name": "speech-to-text-wavenet",
+    "url": "https://github.com/buriburisuri/speech-to-text-wavenet",
+    "description": "Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition using DeepMind's WaveNet and tensorflow"
+  },
+  {
+    "name": "intercooler-js",
+    "url": "https://github.com/LeadDyno/intercooler-js",
+    "description": "Making AJAX as easy as anchor tags"
+  },
+  {
+    "name": "matrixmultiplication.xyz",
+    "url": "https://github.com/staltz/matrixmultiplication.xyz",
+    "description": "Description Not Provided"
+  },
+  {
+    "name": "quorum",
+    "url": "https://github.com/jpmorganchase/quorum",
+    "description": "A permissioned implementation of Ethereum supporting data privacy"
+  },
+  {
+    "name": "tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "Computation using data flow graphs for scalable machine learning"
+  },
+  {
+    "name": "vue",
+    "url": "https://github.com/vuejs/vue",
+    "description": "Simple yet powerful library for building modern web interfaces."
+  },
+  {
+    "name": "gcn",
+    "url": "https://github.com/tkipf/gcn",
+    "description": "Implementation of Graph Convolutional Networks in TensorFlow"
+  },
+  {
+    "name": "ToastBar",
+    "url": "https://github.com/SwiftyWang/ToastBar",
+    "description": "Description Not Provided"
+  },
+  {
+    "name": "jstraining",
+    "url": "https://github.com/ruanyf/jstraining",
+    "description": "全栈工程师培训材料"
+  },
+  {
+    "name": "superset",
+    "url": "https://github.com/airbnb/superset",
+    "description": "Superset is a data exploration platform designed to be visual, intuitive, and interactive"
+  },
+  {
+    "name": "ExpandableTextView",
+    "url": "https://github.com/Chen-Sir/ExpandableTextView",
+    "description": "Android TextView that can expand and collapse."
+  },
+  {
+    "name": "TinderStack",
+    "url": "https://github.com/lawloretienne/TinderStack",
+    "description": "A stack of cards similar to Tinder"
+  },
+  {
+    "name": "mxnet",
+    "url": "https://github.com/dmlc/mxnet",
+    "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"
+  },
+  {
+    "name": "easy-application",
+    "url": "https://github.com/j-delaney/easy-application",
+    "description": "351 software engineering companies that are easy to apply to"
+  }
+]

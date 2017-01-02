@@ -1,1 +1,127 @@
-[{"name":"google-interview-university","url":"https://github.com/jwasham/google-interview-university","description":"A complete daily plan for studying to become a Google software engineer."},{"name":"single_file_libs","url":"https://github.com/nothings/single_file_libs","description":"List of single-file C/C++ libraries."},{"name":"FreeCodeCamp","url":"https://github.com/FreeCodeCamp/FreeCodeCamp","description":"The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."},{"name":"github-inbox","url":"https://github.com/andrew/github-inbox","description":" Take back control of your GitHub Notifications"},{"name":"maya","url":"https://github.com/kennethreitz/maya","description":"Datetimes for Humans™"},{"name":"xed","url":"https://github.com/intelxed/xed","description":"x86 encoder decoder"},{"name":"flv.js","url":"https://github.com/Bilibili/flv.js","description":"HTML5 FLV Player"},{"name":"TensorFlow-Book","url":"https://github.com/BinRoot/TensorFlow-Book","description":"Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations."},{"name":"ios-oss","url":"https://github.com/kickstarter/ios-oss","description":"Kickstarter for iOS. Bring new ideas to life, anywhere."},{"name":"react-fix-it","url":"https://github.com/MicheleBertoli/react-fix-it","description":"Automagically generate tests from errors"},{"name":"material-components-web","url":"https://github.com/material-components/material-components-web","description":"Modular and customizable Material Design UI components for the web"},{"name":"awesome-functional-python","url":"https://github.com/sfermigier/awesome-functional-python","description":"Description Not Provided"},{"name":"rasa_nlu","url":"https://github.com/golastmile/rasa_nlu","description":"Description Not Provided"},{"name":"android-oss","url":"https://github.com/kickstarter/android-oss","description":"Kickstarter for Android. Bring new ideas to life, anywhere."},{"name":"voca","url":"https://github.com/panzerdp/voca","description":"The ultimate JavaScript string library"},{"name":"ForkHub","url":"https://github.com/jonan/ForkHub","description":"GitHub client for Android based on the abandoned official app"},{"name":"wycheproof","url":"https://github.com/google/wycheproof","description":"Project Wycheproof tests crypto libraries against known attacks."},{"name":"TextLayoutBuilder","url":"https://github.com/facebookincubator/TextLayoutBuilder","description":"An Android library that allows you to build text layouts more easily."},{"name":"gitql","url":"https://github.com/cloudson/gitql","description":"A git query language"},{"name":"game-programmer","url":"https://github.com/miloyip/game-programmer","description":"A Study Path for Game Programmer"},{"name":"sloth","url":"https://github.com/coolcooldee/sloth","description":" sloth is a code generator tool and web's scaffolding tool for modern webapps ( likes Ruby on Rails ) 。"},{"name":"vue","url":"https://github.com/vuejs/vue","description":"Simple yet powerful library for building modern web interfaces."},{"name":"vuetify","url":"https://github.com/vuetifyjs/vuetify","description":"Material Component Framework for Vue JS 2.0"},{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","description":"Computation using data flow graphs for scalable machine learning"},{"name":"Winds","url":"https://github.com/GetStream/Winds","description":"Winds is an open source & beautiful RSS reader built using React/Redux/Sails/Node and Stream (https://getstream.io). It showcases personalized feeds powered by the https://getstream.io API. This tutorial explains how the personalization API works (http://bit.ly/personalization-winds). Try the online demo:"}]
+[
+  {
+    "name": "google-interview-university",
+    "url": "https://github.com/jwasham/google-interview-university",
+    "description": "A complete daily plan for studying to become a Google software engineer."
+  },
+  {
+    "name": "single_file_libs",
+    "url": "https://github.com/nothings/single_file_libs",
+    "description": "List of single-file C/C++ libraries."
+  },
+  {
+    "name": "FreeCodeCamp",
+    "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+    "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."
+  },
+  {
+    "name": "github-inbox",
+    "url": "https://github.com/andrew/github-inbox",
+    "description": " Take back control of your GitHub Notifications"
+  },
+  {
+    "name": "maya",
+    "url": "https://github.com/kennethreitz/maya",
+    "description": "Datetimes for Humans™"
+  },
+  {
+    "name": "xed",
+    "url": "https://github.com/intelxed/xed",
+    "description": "x86 encoder decoder"
+  },
+  {
+    "name": "flv.js",
+    "url": "https://github.com/Bilibili/flv.js",
+    "description": "HTML5 FLV Player"
+  },
+  {
+    "name": "TensorFlow-Book",
+    "url": "https://github.com/BinRoot/TensorFlow-Book",
+    "description": "Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations."
+  },
+  {
+    "name": "ios-oss",
+    "url": "https://github.com/kickstarter/ios-oss",
+    "description": "Kickstarter for iOS. Bring new ideas to life, anywhere."
+  },
+  {
+    "name": "react-fix-it",
+    "url": "https://github.com/MicheleBertoli/react-fix-it",
+    "description": "Automagically generate tests from errors"
+  },
+  {
+    "name": "material-components-web",
+    "url": "https://github.com/material-components/material-components-web",
+    "description": "Modular and customizable Material Design UI components for the web"
+  },
+  {
+    "name": "awesome-functional-python",
+    "url": "https://github.com/sfermigier/awesome-functional-python",
+    "description": "Description Not Provided"
+  },
+  {
+    "name": "rasa_nlu",
+    "url": "https://github.com/golastmile/rasa_nlu",
+    "description": "Description Not Provided"
+  },
+  {
+    "name": "android-oss",
+    "url": "https://github.com/kickstarter/android-oss",
+    "description": "Kickstarter for Android. Bring new ideas to life, anywhere."
+  },
+  {
+    "name": "voca",
+    "url": "https://github.com/panzerdp/voca",
+    "description": "The ultimate JavaScript string library"
+  },
+  {
+    "name": "ForkHub",
+    "url": "https://github.com/jonan/ForkHub",
+    "description": "GitHub client for Android based on the abandoned official app"
+  },
+  {
+    "name": "wycheproof",
+    "url": "https://github.com/google/wycheproof",
+    "description": "Project Wycheproof tests crypto libraries against known attacks."
+  },
+  {
+    "name": "TextLayoutBuilder",
+    "url": "https://github.com/facebookincubator/TextLayoutBuilder",
+    "description": "An Android library that allows you to build text layouts more easily."
+  },
+  {
+    "name": "gitql",
+    "url": "https://github.com/cloudson/gitql",
+    "description": "A git query language"
+  },
+  {
+    "name": "game-programmer",
+    "url": "https://github.com/miloyip/game-programmer",
+    "description": "A Study Path for Game Programmer"
+  },
+  {
+    "name": "sloth",
+    "url": "https://github.com/coolcooldee/sloth",
+    "description": " sloth is a code generator tool and web's scaffolding tool for modern webapps ( likes Ruby on Rails ) 。"
+  },
+  {
+    "name": "vue",
+    "url": "https://github.com/vuejs/vue",
+    "description": "Simple yet powerful library for building modern web interfaces."
+  },
+  {
+    "name": "vuetify",
+    "url": "https://github.com/vuetifyjs/vuetify",
+    "description": "Material Component Framework for Vue JS 2.0"
+  },
+  {
+    "name": "tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "Computation using data flow graphs for scalable machine learning"
+  },
+  {
+    "name": "Winds",
+    "url": "https://github.com/GetStream/Winds",
+    "description": "Winds is an open source & beautiful RSS reader built using React/Redux/Sails/Node and Stream (https://getstream.io). It showcases personalized feeds powered by the https://getstream.io API. This tutorial explains how the personalization API works (http://bit.ly/personalization-winds). Try the online demo:"
+  }
+]

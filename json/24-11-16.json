@@ -1,1 +1,127 @@
-[{"name":"macOS-Security-and-Privacy-Guide","url":"https://github.com/drduh/macOS-Security-and-Privacy-Guide","description":"A practical guide to securing macOS."},{"name":"cs-video-courses","url":"https://github.com/Developer-Y/cs-video-courses","description":"List of Computer Science courses with video lectures."},{"name":"Keyframes","url":"https://github.com/facebookincubator/Keyframes","description":"A library for converting Adobe AE shape based animations to a data format and play it back on Android and iOS devices."},{"name":"FreeCodeCamp","url":"https://github.com/FreeCodeCamp/FreeCodeCamp","description":"The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."},{"name":"Apollo-11","url":"https://github.com/chrislgarry/Apollo-11","description":"Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."},{"name":"pix2pix","url":"https://github.com/phillipi/pix2pix","description":"Image-to-image translation using conditional adversarial nets"},{"name":"N-blog","url":"https://github.com/nswbmw/N-blog","description":"一起学 Node.js"},{"name":"easy-application","url":"https://github.com/j-delaney/easy-application","description":"351 software engineering companies that are easy to apply to"},{"name":"mxnet","url":"https://github.com/dmlc/mxnet","description":"Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"},{"name":"md2googleslides","url":"https://github.com/googlesamples/md2googleslides","description":"Generate Google Slides from markdown"},{"name":"superset","url":"https://github.com/airbnb/superset","description":"Superset is a data exploration platform designed to be visual, intuitive, and interactive"},{"name":"vue","url":"https://github.com/vuejs/vue","description":"Simple yet powerful library for building modern web interfaces."},{"name":"channels","url":"https://github.com/andrew--r/channels","description":"A collection of useful YouTube channels for javascript developers and web designers"},{"name":"katana-swift","url":"https://github.com/BendingSpoons/katana-swift","description":"Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by React/Redux."},{"name":"pipfile","url":"https://github.com/pypa/pipfile","description":"Description Not Provided"},{"name":"react-draft-wysiwyg","url":"https://github.com/jpuri/react-draft-wysiwyg","description":"A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg"},{"name":"jstraining","url":"https://github.com/ruanyf/jstraining","description":"全栈工程师培训材料"},{"name":"react-native-card-modal","url":"https://github.com/ggomaeng/react-native-card-modal","description":"A pure javascript card modal for React Native framework."},{"name":"shinatra","url":"https://github.com/benrady/shinatra","description":"A simple web server in 5 lines of bash"},{"name":"quorum","url":"https://github.com/jpmorganchase/quorum","description":"A permissioned implementation of Ethereum supporting data privacy"},{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","description":"Computation using data flow graphs for scalable machine learning"},{"name":"FingerColoring-Android","url":"https://github.com/SwiftyWang/FingerColoring-Android","description":"Description Not Provided"},{"name":"FluidNet","url":"https://github.com/google/FluidNet","description":"Accelerating Eulerian Fluid Simulation With Convolutional Networks"},{"name":"java-bullshifier","url":"https://github.com/takipi/java-bullshifier","description":"An open source project by OverOps. Generate massive random Java applications with a command line tool"},{"name":"flora-kit","url":"https://github.com/huacnlee/flora-kit","description":" 基于 shadowsocks-go 做的完善实现，自动网络分流，完全兼容 Surge 的配置文件。"}]
+[
+  {
+    "name": "macOS-Security-and-Privacy-Guide",
+    "url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
+    "description": "A practical guide to securing macOS."
+  },
+  {
+    "name": "cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures."
+  },
+  {
+    "name": "Keyframes",
+    "url": "https://github.com/facebookincubator/Keyframes",
+    "description": "A library for converting Adobe AE shape based animations to a data format and play it back on Android and iOS devices."
+  },
+  {
+    "name": "FreeCodeCamp",
+    "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+    "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."
+  },
+  {
+    "name": "Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
+  },
+  {
+    "name": "pix2pix",
+    "url": "https://github.com/phillipi/pix2pix",
+    "description": "Image-to-image translation using conditional adversarial nets"
+  },
+  {
+    "name": "N-blog",
+    "url": "https://github.com/nswbmw/N-blog",
+    "description": "一起学 Node.js"
+  },
+  {
+    "name": "easy-application",
+    "url": "https://github.com/j-delaney/easy-application",
+    "description": "351 software engineering companies that are easy to apply to"
+  },
+  {
+    "name": "mxnet",
+    "url": "https://github.com/dmlc/mxnet",
+    "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more"
+  },
+  {
+    "name": "md2googleslides",
+    "url": "https://github.com/googlesamples/md2googleslides",
+    "description": "Generate Google Slides from markdown"
+  },
+  {
+    "name": "superset",
+    "url": "https://github.com/airbnb/superset",
+    "description": "Superset is a data exploration platform designed to be visual, intuitive, and interactive"
+  },
+  {
+    "name": "vue",
+    "url": "https://github.com/vuejs/vue",
+    "description": "Simple yet powerful library for building modern web interfaces."
+  },
+  {
+    "name": "channels",
+    "url": "https://github.com/andrew--r/channels",
+    "description": "A collection of useful YouTube channels for javascript developers and web designers"
+  },
+  {
+    "name": "katana-swift",
+    "url": "https://github.com/BendingSpoons/katana-swift",
+    "description": "Swift Apps in a Swoosh! A modern framework for creating iOS apps, inspired by React/Redux."
+  },
+  {
+    "name": "pipfile",
+    "url": "https://github.com/pypa/pipfile",
+    "description": "Description Not Provided"
+  },
+  {
+    "name": "react-draft-wysiwyg",
+    "url": "https://github.com/jpuri/react-draft-wysiwyg",
+    "description": "A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg"
+  },
+  {
+    "name": "jstraining",
+    "url": "https://github.com/ruanyf/jstraining",
+    "description": "全栈工程师培训材料"
+  },
+  {
+    "name": "react-native-card-modal",
+    "url": "https://github.com/ggomaeng/react-native-card-modal",
+    "description": "A pure javascript card modal for React Native framework."
+  },
+  {
+    "name": "shinatra",
+    "url": "https://github.com/benrady/shinatra",
+    "description": "A simple web server in 5 lines of bash"
+  },
+  {
+    "name": "quorum",
+    "url": "https://github.com/jpmorganchase/quorum",
+    "description": "A permissioned implementation of Ethereum supporting data privacy"
+  },
+  {
+    "name": "tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "Computation using data flow graphs for scalable machine learning"
+  },
+  {
+    "name": "FingerColoring-Android",
+    "url": "https://github.com/SwiftyWang/FingerColoring-Android",
+    "description": "Description Not Provided"
+  },
+  {
+    "name": "FluidNet",
+    "url": "https://github.com/google/FluidNet",
+    "description": "Accelerating Eulerian Fluid Simulation With Convolutional Networks"
+  },
+  {
+    "name": "java-bullshifier",
+    "url": "https://github.com/takipi/java-bullshifier",
+    "description": "An open source project by OverOps. Generate massive random Java applications with a command line tool"
+  },
+  {
+    "name": "flora-kit",
+    "url": "https://github.com/huacnlee/flora-kit",
+    "description": " 基于 shadowsocks-go 做的完善实现，自动网络分流，完全兼容 Surge 的配置文件。"
+  }
+]

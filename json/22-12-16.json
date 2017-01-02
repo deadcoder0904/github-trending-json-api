@@ -1,1 +1,127 @@
-[{"name":"stack-on-a-budget","url":"https://github.com/255kb/stack-on-a-budget","description":"A collection of services with great free tiers for developers on a budget"},{"name":"android","url":"https://github.com/SmartisanTech/android","description":"Smartisan open source code for full build.(repo manifest xml)"},{"name":"google-interview-university","url":"https://github.com/jwasham/google-interview-university","description":"A complete daily plan for studying to become a Google software engineer."},{"name":"FreeCodeCamp","url":"https://github.com/FreeCodeCamp/FreeCodeCamp","description":"The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."},{"name":"mdmath","url":"https://github.com/goessner/mdmath","description":"LaTeX Math for Markdown inside of Visual Studio Code."},{"name":"flv.js","url":"https://github.com/Bilibili/flv.js","description":"HTML5 FLV Player"},{"name":"wycheproof","url":"https://github.com/google/wycheproof","description":"Project Wycheproof tests crypto libraries against known attacks."},{"name":"goaccess","url":"https://github.com/allinurl/goaccess","description":"GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser."},{"name":"xunfeng","url":"https://github.com/ysrc/xunfeng","description":"巡风是一款适用于企业内网的漏洞快速应急，巡航扫描系统。"},{"name":"AdNauseam","url":"https://github.com/dhowe/AdNauseam","description":"AdNauseam: Fight back against advertising surveillance"},{"name":"js-vuln-db","url":"https://github.com/tunz/js-vuln-db","description":"A collection of JavaScript engine CVEs with PoCs"},{"name":"fastText","url":"https://github.com/facebookresearch/fastText","description":"Library for fast text representation and classification."},{"name":"daala","url":"https://github.com/xiph/daala","description":"Modern video compression for the internet"},{"name":"nuclide","url":"https://github.com/facebook/nuclide","description":"An open IDE for web and native mobile development, built on top of Atom"},{"name":"vue","url":"https://github.com/vuejs/vue","description":"Simple yet powerful library for building modern web interfaces."},{"name":"EmojiRain","url":"https://github.com/Luolc/EmojiRain","description":"Implement a simple and funny Android animation —— the emoji rain in WeChat app."},{"name":"regexgen","url":"https://github.com/devongovett/regexgen","description":"Generate regular expressions that match a set of strings"},{"name":"Vulkan-Forward-Plus-Renderer","url":"https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer","description":"Forward+ renderer in Vulkan using Compute Shader. An Upenn CIS565 final project."},{"name":"mainframer","url":"https://github.com/gojuno/mainframer","description":"Pretty universal instruction and script to setup Remote Build for Android project that uses Gradle (and potentially other build systems)."},{"name":"sanic","url":"https://github.com/channelcat/sanic","description":"Python 3.5+ web server that's written to go fast"},{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","description":"Computation using data flow graphs for scalable machine learning"},{"name":"OpenNMT","url":"https://github.com/OpenNMT/OpenNMT","description":"Open-Source Neural Machine Translation in Torch"},{"name":"razorframe","url":"https://github.com/team-emt/razorframe","description":"Node library for empowering real-time applications at scale"},{"name":"weex","url":"https://github.com/alibaba/weex","description":"A framework for building Mobile cross-platform UI"},{"name":"react","url":"https://github.com/facebook/react","description":"A declarative, efficient, and flexible JavaScript library for building user interfaces."}]
+[
+  {
+    "name": "stack-on-a-budget",
+    "url": "https://github.com/255kb/stack-on-a-budget",
+    "description": "A collection of services with great free tiers for developers on a budget"
+  },
+  {
+    "name": "android",
+    "url": "https://github.com/SmartisanTech/android",
+    "description": "Smartisan open source code for full build.(repo manifest xml)"
+  },
+  {
+    "name": "google-interview-university",
+    "url": "https://github.com/jwasham/google-interview-university",
+    "description": "A complete daily plan for studying to become a Google software engineer."
+  },
+  {
+    "name": "FreeCodeCamp",
+    "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+    "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."
+  },
+  {
+    "name": "mdmath",
+    "url": "https://github.com/goessner/mdmath",
+    "description": "LaTeX Math for Markdown inside of Visual Studio Code."
+  },
+  {
+    "name": "flv.js",
+    "url": "https://github.com/Bilibili/flv.js",
+    "description": "HTML5 FLV Player"
+  },
+  {
+    "name": "wycheproof",
+    "url": "https://github.com/google/wycheproof",
+    "description": "Project Wycheproof tests crypto libraries against known attacks."
+  },
+  {
+    "name": "goaccess",
+    "url": "https://github.com/allinurl/goaccess",
+    "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser."
+  },
+  {
+    "name": "xunfeng",
+    "url": "https://github.com/ysrc/xunfeng",
+    "description": "巡风是一款适用于企业内网的漏洞快速应急，巡航扫描系统。"
+  },
+  {
+    "name": "AdNauseam",
+    "url": "https://github.com/dhowe/AdNauseam",
+    "description": "AdNauseam: Fight back against advertising surveillance"
+  },
+  {
+    "name": "js-vuln-db",
+    "url": "https://github.com/tunz/js-vuln-db",
+    "description": "A collection of JavaScript engine CVEs with PoCs"
+  },
+  {
+    "name": "fastText",
+    "url": "https://github.com/facebookresearch/fastText",
+    "description": "Library for fast text representation and classification."
+  },
+  {
+    "name": "daala",
+    "url": "https://github.com/xiph/daala",
+    "description": "Modern video compression for the internet"
+  },
+  {
+    "name": "nuclide",
+    "url": "https://github.com/facebook/nuclide",
+    "description": "An open IDE for web and native mobile development, built on top of Atom"
+  },
+  {
+    "name": "vue",
+    "url": "https://github.com/vuejs/vue",
+    "description": "Simple yet powerful library for building modern web interfaces."
+  },
+  {
+    "name": "EmojiRain",
+    "url": "https://github.com/Luolc/EmojiRain",
+    "description": "Implement a simple and funny Android animation —— the emoji rain in WeChat app."
+  },
+  {
+    "name": "regexgen",
+    "url": "https://github.com/devongovett/regexgen",
+    "description": "Generate regular expressions that match a set of strings"
+  },
+  {
+    "name": "Vulkan-Forward-Plus-Renderer",
+    "url": "https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer",
+    "description": "Forward+ renderer in Vulkan using Compute Shader. An Upenn CIS565 final project."
+  },
+  {
+    "name": "mainframer",
+    "url": "https://github.com/gojuno/mainframer",
+    "description": "Pretty universal instruction and script to setup Remote Build for Android project that uses Gradle (and potentially other build systems)."
+  },
+  {
+    "name": "sanic",
+    "url": "https://github.com/channelcat/sanic",
+    "description": "Python 3.5+ web server that's written to go fast"
+  },
+  {
+    "name": "tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "Computation using data flow graphs for scalable machine learning"
+  },
+  {
+    "name": "OpenNMT",
+    "url": "https://github.com/OpenNMT/OpenNMT",
+    "description": "Open-Source Neural Machine Translation in Torch"
+  },
+  {
+    "name": "razorframe",
+    "url": "https://github.com/team-emt/razorframe",
+    "description": "Node library for empowering real-time applications at scale"
+  },
+  {
+    "name": "weex",
+    "url": "https://github.com/alibaba/weex",
+    "description": "A framework for building Mobile cross-platform UI"
+  },
+  {
+    "name": "react",
+    "url": "https://github.com/facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+  }
+]

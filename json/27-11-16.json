@@ -1,1 +1,127 @@
-[{"name":"FreeCodeCamp","url":"https://github.com/FreeCodeCamp/FreeCodeCamp","description":"The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."},{"name":"kcws","url":"https://github.com/koth/kcws","description":"Deep Learning Chinese Word Segment"},{"name":"speech-to-text-wavenet","url":"https://github.com/buriburisuri/speech-to-text-wavenet","description":"Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow"},{"name":"macOS-Security-and-Privacy-Guide","url":"https://github.com/drduh/macOS-Security-and-Privacy-Guide","description":"A practical guide to securing macOS."},{"name":"css-reference","url":"https://github.com/jgthms/css-reference","description":"CSS Reference: a free visual guide to the most popular CSS properties"},{"name":"cs-video-courses","url":"https://github.com/Developer-Y/cs-video-courses","description":"List of Computer Science courses with video lectures."},{"name":"JSON-Splora","url":"https://github.com/wellsjo/JSON-Splora","description":"GUI for editing, visualizing, and manipulating JSON data"},{"name":"climate","url":"https://github.com/adtac/climate","description":"Linux command line tools for developers"},{"name":"Keyframes","url":"https://github.com/facebookincubator/Keyframes","description":"A library for converting Adobe AE shape based animations to a data format and play it back on Android and iOS devices."},{"name":"blurkit-android","url":"https://github.com/wonderkiln/blurkit-android","description":"The missing Android blurring library. Fast blur-behind layout that parallels iOS."},{"name":"WebODM","url":"https://github.com/OpenDroneMap/WebODM","description":"Web GUI for OpenDroneMap"},{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","description":"Computation using data flow graphs for scalable machine learning"},{"name":"matrixmultiplication.xyz","url":"https://github.com/staltz/matrixmultiplication.xyz","description":"Description Not Provided"},{"name":"voting-machines","url":"https://github.com/Gorcenski/voting-machines","description":"A repo for exploring the software quality of electronic voting machines"},{"name":"ToDoList","url":"https://github.com/Yalantis/ToDoList","description":"Micro-Transitions for Smooth Android To-Do List Animations"},{"name":"react-native-login-animated","url":"https://github.com/thanhtungdp/react-native-login-animated","description":"simple app for animated from other scence"},{"name":"N-blog","url":"https://github.com/nswbmw/N-blog","description":"一起学 Node.js"},{"name":"free-programming-books","url":"https://github.com/vhf/free-programming-books","description":" Freely available programming books"},{"name":"vue","url":"https://github.com/vuejs/vue","description":"Simple yet powerful library for building modern web interfaces."},{"name":"nuxt.js","url":"https://github.com/nuxt/nuxt.js","description":"A minimalistic framework for server-rendered Vue.js applications (inspired by Next.js)"},{"name":"RegexHub","url":"https://github.com/lukehaas/RegexHub","description":"A collection of useful regex patterns"},{"name":"mitmAP","url":"https://github.com/xdavidhu/mitmAP","description":"A python program, to create a fake AP, and sniff data."},{"name":"bootstrap","url":"https://github.com/twbs/bootstrap","description":"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."},{"name":"single_file_libs","url":"https://github.com/nothings/single_file_libs","description":"List of single-file C/C++ libraries."},{"name":"react-native-card-modal","url":"https://github.com/ggomaeng/react-native-card-modal","description":"A pure javascript card modal for React Native framework."}]
+[
+  {
+    "name": "FreeCodeCamp",
+    "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+    "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."
+  },
+  {
+    "name": "kcws",
+    "url": "https://github.com/koth/kcws",
+    "description": "Deep Learning Chinese Word Segment"
+  },
+  {
+    "name": "speech-to-text-wavenet",
+    "url": "https://github.com/buriburisuri/speech-to-text-wavenet",
+    "description": "Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow"
+  },
+  {
+    "name": "macOS-Security-and-Privacy-Guide",
+    "url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
+    "description": "A practical guide to securing macOS."
+  },
+  {
+    "name": "css-reference",
+    "url": "https://github.com/jgthms/css-reference",
+    "description": "CSS Reference: a free visual guide to the most popular CSS properties"
+  },
+  {
+    "name": "cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures."
+  },
+  {
+    "name": "JSON-Splora",
+    "url": "https://github.com/wellsjo/JSON-Splora",
+    "description": "GUI for editing, visualizing, and manipulating JSON data"
+  },
+  {
+    "name": "climate",
+    "url": "https://github.com/adtac/climate",
+    "description": "Linux command line tools for developers"
+  },
+  {
+    "name": "Keyframes",
+    "url": "https://github.com/facebookincubator/Keyframes",
+    "description": "A library for converting Adobe AE shape based animations to a data format and play it back on Android and iOS devices."
+  },
+  {
+    "name": "blurkit-android",
+    "url": "https://github.com/wonderkiln/blurkit-android",
+    "description": "The missing Android blurring library. Fast blur-behind layout that parallels iOS."
+  },
+  {
+    "name": "WebODM",
+    "url": "https://github.com/OpenDroneMap/WebODM",
+    "description": "Web GUI for OpenDroneMap"
+  },
+  {
+    "name": "tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "Computation using data flow graphs for scalable machine learning"
+  },
+  {
+    "name": "matrixmultiplication.xyz",
+    "url": "https://github.com/staltz/matrixmultiplication.xyz",
+    "description": "Description Not Provided"
+  },
+  {
+    "name": "voting-machines",
+    "url": "https://github.com/Gorcenski/voting-machines",
+    "description": "A repo for exploring the software quality of electronic voting machines"
+  },
+  {
+    "name": "ToDoList",
+    "url": "https://github.com/Yalantis/ToDoList",
+    "description": "Micro-Transitions for Smooth Android To-Do List Animations"
+  },
+  {
+    "name": "react-native-login-animated",
+    "url": "https://github.com/thanhtungdp/react-native-login-animated",
+    "description": "simple app for animated from other scence"
+  },
+  {
+    "name": "N-blog",
+    "url": "https://github.com/nswbmw/N-blog",
+    "description": "一起学 Node.js"
+  },
+  {
+    "name": "free-programming-books",
+    "url": "https://github.com/vhf/free-programming-books",
+    "description": " Freely available programming books"
+  },
+  {
+    "name": "vue",
+    "url": "https://github.com/vuejs/vue",
+    "description": "Simple yet powerful library for building modern web interfaces."
+  },
+  {
+    "name": "nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "description": "A minimalistic framework for server-rendered Vue.js applications (inspired by Next.js)"
+  },
+  {
+    "name": "RegexHub",
+    "url": "https://github.com/lukehaas/RegexHub",
+    "description": "A collection of useful regex patterns"
+  },
+  {
+    "name": "mitmAP",
+    "url": "https://github.com/xdavidhu/mitmAP",
+    "description": "A python program, to create a fake AP, and sniff data."
+  },
+  {
+    "name": "bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+  },
+  {
+    "name": "single_file_libs",
+    "url": "https://github.com/nothings/single_file_libs",
+    "description": "List of single-file C/C++ libraries."
+  },
+  {
+    "name": "react-native-card-modal",
+    "url": "https://github.com/ggomaeng/react-native-card-modal",
+    "description": "A pure javascript card modal for React Native framework."
+  }
+]

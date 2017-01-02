@@ -1,1 +1,127 @@
-[{"name":"FreeCodeCamp","url":"https://github.com/FreeCodeCamp/FreeCodeCamp","description":"The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."},{"name":"BigDL","url":"https://github.com/intel-analytics/BigDL","description":"BigDL: Distributed Deep learning Library for Apache Spark"},{"name":"free-programming-books","url":"https://github.com/vhf/free-programming-books","description":" Freely available programming books"},{"name":"show-facebook-computer-vision-tags","url":"https://github.com/ageitgey/show-facebook-computer-vision-tags","description":"A very simple Chrome Extension that displays the automated image tags that Facebook has generated for your images"},{"name":"tile38","url":"https://github.com/tidwall/tile38","description":"Tile38 is a fast geolocation data store, spatial index, and realtime geofence. It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON. "},{"name":"mars","url":"https://github.com/Tencent/mars","description":"Mars is a cross-platform network component developed by WeChat."},{"name":"100-days-of-code","url":"https://github.com/Kallaway/100-days-of-code","description":"Fork this template for the 100 days journal - to keep yourself accountable"},{"name":"react-native-nike-running","url":"https://github.com/sonnylazuardi/react-native-nike-running","description":" UI & UX Prototype of redesigned Nike+ Running App"},{"name":"google-interview-university","url":"https://github.com/jwasham/google-interview-university","description":"A complete daily plan for studying to become a Google software engineer."},{"name":"minix86","url":"https://github.com/xem/minix86","description":"x86 (MS-DOS) documentation, disassembler and emulator - WIP"},{"name":"machine-learning-for-software-engineers","url":"https://github.com/ZuzooVn/machine-learning-for-software-engineers","description":"A complete daily plan for studying to become a machine learning engineer."},{"name":"non-overwhelming-machine-learning","url":"https://github.com/kendricktan/non-overwhelming-machine-learning","description":"A (non overwhelming) list of Machine Learning resources for beginners"},{"name":"bttn.css","url":"https://github.com/ganapativs/bttn.css","description":"Awesome buttons for awesome projects!"},{"name":"releaser","url":"https://github.com/goreleaser/releaser","description":"Deliver Go binaries as fast and easily as possible"},{"name":"You-Dont-Know-JS","url":"https://github.com/getify/You-Dont-Know-JS","description":"A book series on JavaScript. @YDKJS on twitter."},{"name":"atom-in-orbit","url":"https://github.com/facebooknuclide/atom-in-orbit","description":"Putting Atom in the browser"},{"name":"ggraph","url":"https://github.com/pcbje/ggraph","description":"Graph visualization of big messy data"},{"name":"MusicStreamer","url":"https://github.com/harjot-oberai/MusicStreamer","description":"A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music."},{"name":"Solve-Data-In-Code","url":"https://github.com/espadrine/Solve-Data-In-Code","description":"Computer Science Cheatsheets."},{"name":"marky","url":"https://github.com/nolanlawson/marky","description":"High-resolution JavaScript timer based on performance.mark() and measure()"},{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","description":"Computation using data flow graphs for scalable machine learning"},{"name":"awesome-recursion-schemes","url":"https://github.com/passy/awesome-recursion-schemes","description":"Resources for learning and using recursion schemes."},{"name":"pandas","url":"https://github.com/pandas-dev/pandas","description":"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"},{"name":"awesomo","url":"https://github.com/lk-geimfari/awesomo","description":"The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc."},{"name":"tabbie","url":"https://github.com/hharnisc/tabbie","description":"The missing tab manager for Chrome"}]
+[
+  {
+    "name": "FreeCodeCamp",
+    "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+    "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."
+  },
+  {
+    "name": "BigDL",
+    "url": "https://github.com/intel-analytics/BigDL",
+    "description": "BigDL: Distributed Deep learning Library for Apache Spark"
+  },
+  {
+    "name": "free-programming-books",
+    "url": "https://github.com/vhf/free-programming-books",
+    "description": " Freely available programming books"
+  },
+  {
+    "name": "show-facebook-computer-vision-tags",
+    "url": "https://github.com/ageitgey/show-facebook-computer-vision-tags",
+    "description": "A very simple Chrome Extension that displays the automated image tags that Facebook has generated for your images"
+  },
+  {
+    "name": "tile38",
+    "url": "https://github.com/tidwall/tile38",
+    "description": "Tile38 is a fast geolocation data store, spatial index, and realtime geofence. It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON. "
+  },
+  {
+    "name": "mars",
+    "url": "https://github.com/Tencent/mars",
+    "description": "Mars is a cross-platform network component developed by WeChat."
+  },
+  {
+    "name": "100-days-of-code",
+    "url": "https://github.com/Kallaway/100-days-of-code",
+    "description": "Fork this template for the 100 days journal - to keep yourself accountable"
+  },
+  {
+    "name": "react-native-nike-running",
+    "url": "https://github.com/sonnylazuardi/react-native-nike-running",
+    "description": " UI & UX Prototype of redesigned Nike+ Running App"
+  },
+  {
+    "name": "google-interview-university",
+    "url": "https://github.com/jwasham/google-interview-university",
+    "description": "A complete daily plan for studying to become a Google software engineer."
+  },
+  {
+    "name": "minix86",
+    "url": "https://github.com/xem/minix86",
+    "description": "x86 (MS-DOS) documentation, disassembler and emulator - WIP"
+  },
+  {
+    "name": "machine-learning-for-software-engineers",
+    "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+    "description": "A complete daily plan for studying to become a machine learning engineer."
+  },
+  {
+    "name": "non-overwhelming-machine-learning",
+    "url": "https://github.com/kendricktan/non-overwhelming-machine-learning",
+    "description": "A (non overwhelming) list of Machine Learning resources for beginners"
+  },
+  {
+    "name": "bttn.css",
+    "url": "https://github.com/ganapativs/bttn.css",
+    "description": "Awesome buttons for awesome projects!"
+  },
+  {
+    "name": "releaser",
+    "url": "https://github.com/goreleaser/releaser",
+    "description": "Deliver Go binaries as fast and easily as possible"
+  },
+  {
+    "name": "You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter."
+  },
+  {
+    "name": "atom-in-orbit",
+    "url": "https://github.com/facebooknuclide/atom-in-orbit",
+    "description": "Putting Atom in the browser"
+  },
+  {
+    "name": "ggraph",
+    "url": "https://github.com/pcbje/ggraph",
+    "description": "Graph visualization of big messy data"
+  },
+  {
+    "name": "MusicStreamer",
+    "url": "https://github.com/harjot-oberai/MusicStreamer",
+    "description": "A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music."
+  },
+  {
+    "name": "Solve-Data-In-Code",
+    "url": "https://github.com/espadrine/Solve-Data-In-Code",
+    "description": "Computer Science Cheatsheets."
+  },
+  {
+    "name": "marky",
+    "url": "https://github.com/nolanlawson/marky",
+    "description": "High-resolution JavaScript timer based on performance.mark() and measure()"
+  },
+  {
+    "name": "tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "Computation using data flow graphs for scalable machine learning"
+  },
+  {
+    "name": "awesome-recursion-schemes",
+    "url": "https://github.com/passy/awesome-recursion-schemes",
+    "description": "Resources for learning and using recursion schemes."
+  },
+  {
+    "name": "pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+  },
+  {
+    "name": "awesomo",
+    "url": "https://github.com/lk-geimfari/awesomo",
+    "description": "The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc."
+  },
+  {
+    "name": "tabbie",
+    "url": "https://github.com/hharnisc/tabbie",
+    "description": "The missing tab manager for Chrome"
+  }
+]

@@ -1,1 +1,127 @@
-[{"name":"android-oss","url":"https://github.com/kickstarter/android-oss","description":"Kickstarter for Android. Bring new ideas to life, anywhere."},{"name":"ios-oss","url":"https://github.com/kickstarter/ios-oss","description":"Kickstarter for iOS. Bring new ideas to life, anywhere."},{"name":"google-interview-university","url":"https://github.com/jwasham/google-interview-university","description":"A complete daily plan for studying to become a Google software engineer."},{"name":"gitql","url":"https://github.com/cloudson/gitql","description":"A git query language"},{"name":"voca","url":"https://github.com/panzerdp/voca","description":"The ultimate JavaScript string library"},{"name":"FreeCodeCamp","url":"https://github.com/FreeCodeCamp/FreeCodeCamp","description":"The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."},{"name":"material-components-android","url":"https://github.com/material-components/material-components-android","description":"Modular and customizable Material Design UI components for Android"},{"name":"TensorFlow-Book","url":"https://github.com/BinRoot/TensorFlow-Book","description":"Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations."},{"name":"material-components-web","url":"https://github.com/material-components/material-components-web","description":"Modular and customizable Material Design UI components for the web"},{"name":"godb","url":"https://github.com/samonzeweb/godb","description":"A Go query builder and struct mapper."},{"name":"neveragaindottech.github.io","url":"https://github.com/neveragaindottech/neveragaindottech.github.io","description":"Source files for the neveragain.tech site"},{"name":"gcc-explorer","url":"https://github.com/mattgodbolt/gcc-explorer","description":"Run GCC (and other compilers) interactively from your web browser and experiment with its generated code"},{"name":"DragVideo","url":"https://github.com/hejunlin2013/DragVideo","description":"A Method to Drag the Video When Playing Video"},{"name":"weex","url":"https://github.com/alibaba/weex","description":"A framework for building Mobile cross-platform UI"},{"name":"flv.js","url":"https://github.com/Bilibili/flv.js","description":"HTML5 FLV Player"},{"name":"loadjs","url":"https://github.com/muicss/loadjs","description":"A tiny async loader for modern browsers (710 bytes)"},{"name":"redux-pack","url":"https://github.com/lelandrichardson/redux-pack","description":"Sensible promise handling and middleware for redux"},{"name":"hyper","url":"https://github.com/zeit/hyper","description":"A terminal built on web technologies"},{"name":"containerd","url":"https://github.com/docker/containerd","description":"An open and reliable container runtime, by Docker"},{"name":"searx","url":"https://github.com/asciimoo/searx","description":"Privacy-respecting metasearch engine"},{"name":"card","url":"https://github.com/jessepollak/card","description":" make your credit card form better in one line of code"},{"name":"easy-tips","url":"https://github.com/TIGERB/easy-tips","description":"a little tips in my code career"},{"name":"BufferTextInputLayout","url":"https://github.com/bufferapp/BufferTextInputLayout","description":"A simple customised version of the TextInputLayout from the Android Design Support Library"},{"name":"vuetify","url":"https://github.com/vuetifyjs/vuetify","description":"Material Component Framework for Vue JS 2.0"},{"name":"JavaScript30","url":"https://github.com/wesbos/JavaScript30","description":"30 Day Vanilla JS Challenge"}]
+[
+  {
+    "name": "android-oss",
+    "url": "https://github.com/kickstarter/android-oss",
+    "description": "Kickstarter for Android. Bring new ideas to life, anywhere."
+  },
+  {
+    "name": "ios-oss",
+    "url": "https://github.com/kickstarter/ios-oss",
+    "description": "Kickstarter for iOS. Bring new ideas to life, anywhere."
+  },
+  {
+    "name": "google-interview-university",
+    "url": "https://github.com/jwasham/google-interview-university",
+    "description": "A complete daily plan for studying to become a Google software engineer."
+  },
+  {
+    "name": "gitql",
+    "url": "https://github.com/cloudson/gitql",
+    "description": "A git query language"
+  },
+  {
+    "name": "voca",
+    "url": "https://github.com/panzerdp/voca",
+    "description": "The ultimate JavaScript string library"
+  },
+  {
+    "name": "FreeCodeCamp",
+    "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+    "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."
+  },
+  {
+    "name": "material-components-android",
+    "url": "https://github.com/material-components/material-components-android",
+    "description": "Modular and customizable Material Design UI components for Android"
+  },
+  {
+    "name": "TensorFlow-Book",
+    "url": "https://github.com/BinRoot/TensorFlow-Book",
+    "description": "Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations."
+  },
+  {
+    "name": "material-components-web",
+    "url": "https://github.com/material-components/material-components-web",
+    "description": "Modular and customizable Material Design UI components for the web"
+  },
+  {
+    "name": "godb",
+    "url": "https://github.com/samonzeweb/godb",
+    "description": "A Go query builder and struct mapper."
+  },
+  {
+    "name": "neveragaindottech.github.io",
+    "url": "https://github.com/neveragaindottech/neveragaindottech.github.io",
+    "description": "Source files for the neveragain.tech site"
+  },
+  {
+    "name": "gcc-explorer",
+    "url": "https://github.com/mattgodbolt/gcc-explorer",
+    "description": "Run GCC (and other compilers) interactively from your web browser and experiment with its generated code"
+  },
+  {
+    "name": "DragVideo",
+    "url": "https://github.com/hejunlin2013/DragVideo",
+    "description": "A Method to Drag the Video When Playing Video"
+  },
+  {
+    "name": "weex",
+    "url": "https://github.com/alibaba/weex",
+    "description": "A framework for building Mobile cross-platform UI"
+  },
+  {
+    "name": "flv.js",
+    "url": "https://github.com/Bilibili/flv.js",
+    "description": "HTML5 FLV Player"
+  },
+  {
+    "name": "loadjs",
+    "url": "https://github.com/muicss/loadjs",
+    "description": "A tiny async loader for modern browsers (710 bytes)"
+  },
+  {
+    "name": "redux-pack",
+    "url": "https://github.com/lelandrichardson/redux-pack",
+    "description": "Sensible promise handling and middleware for redux"
+  },
+  {
+    "name": "hyper",
+    "url": "https://github.com/zeit/hyper",
+    "description": "A terminal built on web technologies"
+  },
+  {
+    "name": "containerd",
+    "url": "https://github.com/docker/containerd",
+    "description": "An open and reliable container runtime, by Docker"
+  },
+  {
+    "name": "searx",
+    "url": "https://github.com/asciimoo/searx",
+    "description": "Privacy-respecting metasearch engine"
+  },
+  {
+    "name": "card",
+    "url": "https://github.com/jessepollak/card",
+    "description": " make your credit card form better in one line of code"
+  },
+  {
+    "name": "easy-tips",
+    "url": "https://github.com/TIGERB/easy-tips",
+    "description": "a little tips in my code career"
+  },
+  {
+    "name": "BufferTextInputLayout",
+    "url": "https://github.com/bufferapp/BufferTextInputLayout",
+    "description": "A simple customised version of the TextInputLayout from the Android Design Support Library"
+  },
+  {
+    "name": "vuetify",
+    "url": "https://github.com/vuetifyjs/vuetify",
+    "description": "Material Component Framework for Vue JS 2.0"
+  },
+  {
+    "name": "JavaScript30",
+    "url": "https://github.com/wesbos/JavaScript30",
+    "description": "30 Day Vanilla JS Challenge"
+  }
+]

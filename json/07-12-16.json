@@ -1,1 +1,127 @@
-[{"name":"universe","url":"https://github.com/openai/universe","description":"Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications."},{"name":"lab","url":"https://github.com/deepmind/lab","description":"A customisable 3D platform for agent-based AI research"},{"name":"victory","url":"https://github.com/FormidableLabs/victory","description":"A collection of composable React components for building interactive data visualizations"},{"name":"webpack-blocks","url":"https://github.com/andywer/webpack-blocks","description":" Configure webpack using functional feature blocks."},{"name":"FreeCodeCamp","url":"https://github.com/FreeCodeCamp/FreeCodeCamp","description":"The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."},{"name":"game-programmer","url":"https://github.com/miloyip/game-programmer","description":"A Study Path for Game Programmer"},{"name":"pulltorefresh.js","url":"https://github.com/BoxFactura/pulltorefresh.js","description":"A quick and powerful plugin for your pull-to-refresh needs in your webapp."},{"name":"jid","url":"https://github.com/simeji/jid","description":"json incremental digger"},{"name":"date-fns","url":"https://github.com/date-fns/date-fns","description":" Modern JavaScript date utility library "},{"name":"AndroidIconAnimator","url":"https://github.com/romannurik/AndroidIconAnimator","description":"Android vector icon animation tool"},{"name":"ZoomHeader","url":"https://github.com/githubwing/ZoomHeader","description":"神交互。模仿饿了么详情页 viewpager变详情页"},{"name":"uBlock-Safari","url":"https://github.com/el1t/uBlock-Safari","description":"uBlock Origin - An efficient blocker for Chromium, Firefox, and Safari. Fast and lean."},{"name":"YoptaScript","url":"https://github.com/samgozman/YoptaScript","description":"Скриптовый язык программирования для гопников и реальных пацанов"},{"name":"rxdb","url":"https://github.com/pubkey/rxdb","description":"Reactive Offline-first Database with Sync, Schema, Mongo-Query, Encryption, LevelDown"},{"name":"styletron","url":"https://github.com/rtsao/styletron","description":" Universal, high-performance JavaScript styles"},{"name":"openpilot","url":"https://github.com/commaai/openpilot","description":"open source driving agent"},{"name":"RxDownload","url":"https://github.com/ssseasonnn/RxDownload","description":"The download tool based on RxJava . Support multi-threaded download and breakpoint download, intelligent judge whether to support multi-threaded download and breakpoint download. 基于RxJava和Retrofit打造的下载工具, 支持多线程下载和断点续传, 智能判断是否支持断点续传等功能"},{"name":"MyDiary","url":"https://github.com/erttyy8821/MyDiary","description":"In the Movie \"-your name.-\" (君の名は。, 你的名字) , \"My Diary\" of android version is."},{"name":"BubbleSeekBar","url":"https://github.com/woxingxiao/BubbleSeekBar","description":"自定义SeekBar，进度变化由可视化气泡样式呈现"},{"name":"styled-jsx","url":"https://github.com/zeit/styled-jsx","description":"Full CSS support for JSX without compromises"},{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","description":"Computation using data flow graphs for scalable machine learning"},{"name":"git-of-theseus","url":"https://github.com/erikbern/git-of-theseus","description":"Analyze how a Git repo grows over time"},{"name":"TinyConsole","url":"https://github.com/Cosmo/TinyConsole","description":" A tiny log console to display information while using your iOS app. Written in Swift 3."},{"name":"android-PageFlip","url":"https://github.com/eschao/android-PageFlip","description":"3D Style Page Flip on Android"},{"name":"doomrl","url":"https://github.com/ChaosForge/doomrl","description":"D**m, the Roguelike"}]
+[
+  {
+    "name": "universe",
+    "url": "https://github.com/openai/universe",
+    "description": "Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications."
+  },
+  {
+    "name": "lab",
+    "url": "https://github.com/deepmind/lab",
+    "description": "A customisable 3D platform for agent-based AI research"
+  },
+  {
+    "name": "victory",
+    "url": "https://github.com/FormidableLabs/victory",
+    "description": "A collection of composable React components for building interactive data visualizations"
+  },
+  {
+    "name": "webpack-blocks",
+    "url": "https://github.com/andywer/webpack-blocks",
+    "description": " Configure webpack using functional feature blocks."
+  },
+  {
+    "name": "FreeCodeCamp",
+    "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+    "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits."
+  },
+  {
+    "name": "game-programmer",
+    "url": "https://github.com/miloyip/game-programmer",
+    "description": "A Study Path for Game Programmer"
+  },
+  {
+    "name": "pulltorefresh.js",
+    "url": "https://github.com/BoxFactura/pulltorefresh.js",
+    "description": "A quick and powerful plugin for your pull-to-refresh needs in your webapp."
+  },
+  {
+    "name": "jid",
+    "url": "https://github.com/simeji/jid",
+    "description": "json incremental digger"
+  },
+  {
+    "name": "date-fns",
+    "url": "https://github.com/date-fns/date-fns",
+    "description": " Modern JavaScript date utility library "
+  },
+  {
+    "name": "AndroidIconAnimator",
+    "url": "https://github.com/romannurik/AndroidIconAnimator",
+    "description": "Android vector icon animation tool"
+  },
+  {
+    "name": "ZoomHeader",
+    "url": "https://github.com/githubwing/ZoomHeader",
+    "description": "神交互。模仿饿了么详情页 viewpager变详情页"
+  },
+  {
+    "name": "uBlock-Safari",
+    "url": "https://github.com/el1t/uBlock-Safari",
+    "description": "uBlock Origin - An efficient blocker for Chromium, Firefox, and Safari. Fast and lean."
+  },
+  {
+    "name": "YoptaScript",
+    "url": "https://github.com/samgozman/YoptaScript",
+    "description": "Скриптовый язык программирования для гопников и реальных пацанов"
+  },
+  {
+    "name": "rxdb",
+    "url": "https://github.com/pubkey/rxdb",
+    "description": "Reactive Offline-first Database with Sync, Schema, Mongo-Query, Encryption, LevelDown"
+  },
+  {
+    "name": "styletron",
+    "url": "https://github.com/rtsao/styletron",
+    "description": " Universal, high-performance JavaScript styles"
+  },
+  {
+    "name": "openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "open source driving agent"
+  },
+  {
+    "name": "RxDownload",
+    "url": "https://github.com/ssseasonnn/RxDownload",
+    "description": "The download tool based on RxJava . Support multi-threaded download and breakpoint download, intelligent judge whether to support multi-threaded download and breakpoint download. 基于RxJava和Retrofit打造的下载工具, 支持多线程下载和断点续传, 智能判断是否支持断点续传等功能"
+  },
+  {
+    "name": "MyDiary",
+    "url": "https://github.com/erttyy8821/MyDiary",
+    "description": "In the Movie \"-your name.-\" (君の名は。, 你的名字) , \"My Diary\" of android version is."
+  },
+  {
+    "name": "BubbleSeekBar",
+    "url": "https://github.com/woxingxiao/BubbleSeekBar",
+    "description": "自定义SeekBar，进度变化由可视化气泡样式呈现"
+  },
+  {
+    "name": "styled-jsx",
+    "url": "https://github.com/zeit/styled-jsx",
+    "description": "Full CSS support for JSX without compromises"
+  },
+  {
+    "name": "tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "Computation using data flow graphs for scalable machine learning"
+  },
+  {
+    "name": "git-of-theseus",
+    "url": "https://github.com/erikbern/git-of-theseus",
+    "description": "Analyze how a Git repo grows over time"
+  },
+  {
+    "name": "TinyConsole",
+    "url": "https://github.com/Cosmo/TinyConsole",
+    "description": " A tiny log console to display information while using your iOS app. Written in Swift 3."
+  },
+  {
+    "name": "android-PageFlip",
+    "url": "https://github.com/eschao/android-PageFlip",
+    "description": "3D Style Page Flip on Android"
+  },
+  {
+    "name": "doomrl",
+    "url": "https://github.com/ChaosForge/doomrl",
+    "description": "D**m, the Roguelike"
+  }
+]
