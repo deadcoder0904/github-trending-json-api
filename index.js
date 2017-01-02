@@ -48,8 +48,8 @@ nightmare
 				description
 			});
 		}
-
-		jsonfile.writeFile(file, details, function (err) {
+		console.log(JSON.stringify(details, null, 2));
+		jsonfile.writeFile(file, JSON.stringify(details, null, 2), function (err) {
 		  console.error(err)
 		})
   })
