@@ -11,7 +11,7 @@ nightmare
   .type('form[action*="/search"] [name=q]', 'github trending')
   .click('form[action*="/search"] [type=submit]')
   .wait('#ires')
-  .click('html body#gsr.vasq.srp div#viewport.ctr-p div#main.content div#cnt div.mw div#rcnt div.col div#center_col div#res.med div#search div div#ires div#rso div.g div div.rc h3.r a')
+  .click('#rso > div > div > div:nth-child(1) > div > h3 > a')
   .evaluate(function () {
 		var repos = document.querySelector('ol.repo-list')
 		var url = []
